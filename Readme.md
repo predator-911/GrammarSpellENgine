@@ -1,7 +1,7 @@
 # Grammar Scoring Engine - Audio-based Grammar Assessment
 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/Predator911/GrammarEngine)
 
 An optimized machine learning solution for scoring grammar quality in spoken audio samples, developed for Kaggle competitions with GPU acceleration support.
 
